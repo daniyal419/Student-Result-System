@@ -87,3 +87,5 @@ Add your name here before publishing.
 ## Project Screenshot
 ![Student Result Management System]
 (project-screenshot.png)
+## Project Screenshot
+![student Dashboard](dashboard.png)
