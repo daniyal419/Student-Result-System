@@ -84,3 +84,6 @@ This project demonstrates:
 ## Author
 
 Add your name here before publishing.
+## Project Screenshot
+![Student Result Management System]
+(project-screenshot.png)
